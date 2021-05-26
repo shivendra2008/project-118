@@ -14,6 +14,11 @@
     color: black;
     box-shadow: 5px 5px 5px grey;
 }
+.result_para_tag
+{
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+}
 .heading_div2
 {
     font: 18px ;
